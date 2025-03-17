@@ -12,8 +12,6 @@
 
 其他有意义的内容
 
-目前还在施工中……
-
 ## 平台
 
 本项目主要使用GitHub作为提交和保存平台，具有如下优势：
@@ -27,19 +25,7 @@ https://github.com/KarlRaphel/HHU-Collection-of-Test-Papers/
 
 如果访问不了Github，可以尝试魔法上网，或Github镜像网站，可能会稍微好些
 
-此外，本项目在Coding有镜像项目，方便国内网络进行访问   **因coding容量问题，已不更新**
-
-https://hhuctp.coding.net/public/HHUCTP/HHU-Collection-of-Test-Papers/git/files
-
-为方便不会使用的同学下载，新增我个人的网盘链接，不定期会同步：
-
-https://www.aliyundrive.com/s/d2fpRmMy4ep
-
-**由于网盘的特性，部分文件可能会被封、无法下载，有条件的同学还请访问GitHub下载。维护不易，网盘里放了我的收款码**^_^
-
 ## 贡献
-
-由于目前本项目中的文件大多是一人整理，如有不当之处敬请在Issues中指出
 
 欢迎贡献新资料！！！
 
